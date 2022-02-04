@@ -1,0 +1,12 @@
+{
+  "name": "Bheem Bjaye Band",
+  "powers": ["JS", "flying", "fast"],
+  "primaryNemesis": "Strongman",
+  "img": "https://pbs.twimg.com/profile_images/378800000246129714/3cffc0154ecc9be3c9fc95712a600108_400x400.jpeg",
+  "lifePercentage": 300,
+  "dob": {
+    "day": 15,
+    "month": 1,
+    "year": 2022
+  }
+}
